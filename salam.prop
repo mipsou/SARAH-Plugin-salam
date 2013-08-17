@@ -1,0 +1,9 @@
+{
+  "modules" : { 
+    "salam"  : {
+      "description": "Salam alaïkoum Sarah",
+      "version"    : "1.0",
+	  "Auteur": "Samir SEMAI"
+    }
+  }
+}
