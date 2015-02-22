@@ -3,8 +3,11 @@
     <example>Salam alaïkoum Sarah</example>
     <tag>out.action=new Object(); </tag>
 
-    <item weight="2">Salam alaïkoum Sarah</item>
-
+    <item weight="2">Sarah</item>
+    <one-of>
+      <item>Salam alaïkoum</item>
+      <item>Salam alaïkoum Sarah</item>
+    </one-of>
     <tag>out.action._attributes.uri="http://127.0.0.1:8080/sarah/salam";</tag>
   </rule>
 </grammar>
